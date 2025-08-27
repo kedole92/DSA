@@ -80,5 +80,3 @@ int main()
 	}
 	return 0;
 }
-
-Aab is not a permutation of any palindrome
