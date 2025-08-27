@@ -28,12 +28,9 @@ There is at least one word in s.
 
 
 string reverseWordsInAString(string str){
-      
-      // reverse the whole string
+    // reverse the whole string
     reverse(str.begin(), str.end());
-
     int i=0;
-
     for(int idx=0; idx<str.size(); ++idx)
     {
           if(str[idx] != ' ')
