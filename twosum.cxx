@@ -1,4 +1,4 @@
-Problem Description
+Problem Description:
 Given an array of integers as input, output the indices of two numbers in the array which add up to a specified target.
 Assume that each input would have exactly one solution and you cannot use the same element twice. If 2 different elements have the same value, they can be used.
 Print the indices in increasing order.
