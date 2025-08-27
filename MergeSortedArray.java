@@ -1,4 +1,4 @@
-Problem Description
+Problem Description:
 Given two sorted arrays of size M and N, merge the two arrays and return the final array, sorted.
 
 Input format
