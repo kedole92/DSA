@@ -65,8 +65,7 @@ public class RotateImage {
         reverseRows(matrix);
         
     }
-
-
+    
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         int matrixSize = scanner.nextInt();
